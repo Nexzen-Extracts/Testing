@@ -1694,7 +1694,7 @@ html {
   margin: auto;
   display: grid;
   grid-template-columns: 1fr 1fr;
-  background: #ffffff;
+  
   border-radius: 16px;
   overflow: hidden;
  
